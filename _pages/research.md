@@ -24,6 +24,10 @@ Technological path dependency tends to lock in the concerns and capabilities of 
 
 We develop ways of mapping that do not focus on one or two types of data, such as population density or elevation. Instead, they show how many types of data (and the phenomena they represent) vary over the landscape, often interrelated with each other. Tiled and woven maps, made with David O'Sullivan, are one example.
 
+### Digital environmental humanities
+
+How might geographical computation engage a world of deeply entangled nature-society relationships? We work to foster more creative and productive relationships between geographical computation, the humanities, and the environmental sciences. This thread runs from earlier work on speculative cartographies, GIS after encounters with the environmental humanities, to the [Routledge Handbook of the Digital Environmental Humanities](https://doi.org/10.4324/9781003082798), co-edited with Charles Travis, Deborah Dixon, Rob Legg, and Arlene Crampsie. Its inspirations include feminist new materialisms, posthumanist thought, and process-relational thought, broadly writ.
+
 ### Economy and ecology in connection
 
 Places are formed not only through what exists locally, but at the intersection of many global connections. Tracing ecological footprints relationally through the webs of the economy challenges the belief that certain commodities are substantially ‘greener’ than others. It suggests there may be serious limits to individual and household strategies for ecologically responsible behavior. It underscores the need for more social, collective, and governmental strategies.

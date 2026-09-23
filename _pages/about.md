@@ -1,13 +1,11 @@
 ---
-title: "About"
+title: "About | folding space studio"
 layout: textlay
-excerpt: "About"
+excerpt: "About this website"
 sitemap: false
 permalink: /about.html
 ---
 
+# About this website
 
-
-### Make your own
-
-This website was built off of the Allan Lab's [template for academic research groups.](http://www.allanlab.org/aboutwebsite.html)
+This website was built from the Allan Lab's [template for academic research groups](http://www.allanlab.org/aboutwebsite.html).

@@ -1,0 +1,19 @@
+- name: enfolding
+  url: https://github.com/FoldingSpace/enfolding
+  text: "A prototype geographical imagination system (gis), made with Nick Lally. It runs in the browser, including in web VR. <a href='https://foldingspace.github.io/enfolding/'>Try it online</a>."
+
+- name: William Bunge Archive
+  url: https://bunge.geog.ubc.ca
+  text: "Co-curated with Trevor Barnes. The archive has supported several of our published papers on Bunge and the history of geographic thought."
+
+- name: Generalized projections
+  url: https://doi.org/10.1145/3149858.3149866
+  text: "With David O'Sullivan. More projections, more perspectives, more spaces for cartography and GIS."
+
+- name: Weaving space
+  url: https://foldingspace.github.io/weavingspaceQGIS/
+  text: "With David O'Sullivan. Tiled and woven maps that show many attributes of the same places at once."
+
+- name: Interactive widgets
+  url: https://foldingspace.github.io/interactive/
+  text: "Small web pages for cartography and GIScience, each showing one idea you can change."

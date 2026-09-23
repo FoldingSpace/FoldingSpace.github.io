@@ -1,25 +1,41 @@
 ---
-title: "Allan Lab - Research"
+title: "Research | folding space studio"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Research at the folding space studio"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+**Can we extend geographic computing so it can matter to more people?**
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+Digital geographic data conventionally represent the world in terms of self-sufficient, bounded entities. These are defined by their properties and by their location in the coordinates of an external, ‘absolute’ space, such as latitude and longitude. As a constructive alternative, our work emphasizes representing, analyzing, and visualizing connections (or ‘relations’) through geographical computation. These are connections over distance. They are connections between phenomena within place. They are also connections between the interpreter and the interpreted. These ideas lie at the heart of what geographers call relational geographies.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+### Many spaces
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+The space of the city is not the same when driven in a car as when walked, or when flown over in a helicopter. It is not the same for the police as for a child. We are generalizing spatial coordinates and map projections beyond their present commitments to absolute space, so that we can compute with many geographic spaces. Each is grounded in the contexts of particular processes, or in the perspectives of particular people. With David O'Sullivan, this includes work on discrete generalized projections, and on extending core projection libraries such as proj.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+### Geographical imagination systems
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+Technological path dependency tends to lock in the concerns and capabilities of GIS. So we also explore alternative ideals for geographical computation, such as geographical imagination systems (gis). The prototype [enfolding](https://github.com/FoldingSpace/enfolding), made with Nick Lally, is one such experiment. Related work engages physical prototypes and experiential media, from 3D printing to augmented and virtual reality, to build intuition for complex spatialities.
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+### New visual practices
+
+We develop ways of mapping that do not focus on one or two types of data, such as population density or elevation. Instead, they show how many types of data (and the phenomena they represent) vary over the landscape, often interrelated with each other. Tiled and woven maps, made with David O'Sullivan, are one example.
+
+### Economy and ecology in connection
+
+Places are formed not only through what exists locally, but at the intersection of many global connections. Tracing ecological footprints relationally through the webs of the economy challenges the belief that certain commodities are substantially ‘greener’ than others. It suggests there may be serious limits to individual and household strategies for ecologically responsible behavior. It underscores the need for more social, collective, and governmental strategies.
+
+### Disease and landscape
+
+With collaborators including Luis Fernando Chaves and Rob Wallace, we study how landscapes, through their socionatural entanglements across scales, become more or less susceptible to the emergence and spread of disease. This work has addressed influenza, Ebola, Zika, COVID-19, and malaria. It extends to agricultural landscapes, industrial and alternative.
+
+### Histories of geographic thought
+
+Our computing is shaped by particular histories. With Trevor Barnes, we co-curate the [William Bunge Archive](https://bunge.geog.ubc.ca), which has supported several of our published papers on Bunge, theoretical geography, and radical geography.
+
+### Making it available
+
+Much of this work takes the form of code: prototypes that demonstrate new ideas, software libraries that make research accessible and useful, and analyses in interactive notebooks. Where we can, we share it openly on [GitHub](https://github.com/FoldingSpace).

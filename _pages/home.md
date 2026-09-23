@@ -10,7 +10,7 @@ permalink: /
 
 This question animates the folding space studio.
 
-Computers are already ubiquitous. Geographic information systems are used extensively in industry and universities alike. Yet much of how those who study geography see the world is not well handled by GIS or data sciences more broadly. The processes, the interrelationships, and the social and contextual character of knowledge that geographers and others see in the world often end up de-emphasized by how we compute today. Our work seeks to make them more of an option.
+Computing is already ubiquitous. Geographic information systems are used extensively in industry and universities alike. Yet much of how those who study geography see the world is not well handled by GIS or data sciences more broadly. The processes, the interrelationships, and the social and contextual character of knowledge that geographers and others see in the world often end up de-emphasized by how we compute today. Our work seeks to make them more of an option.
 
 <figure markdown="0">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projects/enfolding-nacis.png" class="img-responsive" alt="Enfolded: space shaped by travel times from Madison to NACIS, a map made with enfolding" />

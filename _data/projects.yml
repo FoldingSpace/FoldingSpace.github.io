@@ -1,6 +1,6 @@
 - name: enfolding
   url: https://github.com/FoldingSpace/enfolding
-  text: "A prototype geographical imagination system (gis), made with Nick Lally. It runs in the browser, including in web VR. <a href='https://foldingspace.github.io/enfolding/'>Try it online</a>."
+  text: "A prototype geographical imagination system (gis), made with Nick Lally. It <a href='https://foldingspace.github.io/enfolding/'>runs in the browser</a>."
 
 - name: William Bunge Archive
   url: https://bunge.geog.ubc.ca

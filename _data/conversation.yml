@@ -1,11 +1,12 @@
 # People in the conversation. Add students and collaborators here.
-# Fields: name, url (optional), info.
+# Fields: name, url (optional), info, outside (true for people outside UBC).
 
 - name: Luke Bergmann
   url: https://geog.ubc.ca/profile/luke-bergmann/
   info: "Canada Research Chair in GIS, Geospatial Big Data and Digital Geohumanities, and Associate Professor, Department of Geography, UBC. <a href='https://scholar.google.com/citations?user=srcTWI0AAAAJ&hl=en'>Google Scholar</a>."
 
 - name: David O'Sullivan
+  outside: true
   url: https://dosull.github.io/
   info: "Generalized projections; tiled and woven maps; relational spaces."
 
@@ -14,10 +15,16 @@
   info: "The William Bunge Archive; histories of geographic thought."
 
 - name: Nick Lally
+  outside: true
+  url: https://www.nicklally.com/
   info: "enfolding and geographical imagination systems."
 
 - name: Luis Fernando Chaves
+  outside: true
+  url: https://publichealth.indiana.edu/about/directory/Luis-Chaves-lfchaves.html
   info: "Disease, landscapes, and agriculture."
 
 - name: Rob Wallace
+  outside: true
+  url: https://farmingpathogens.wordpress.com/
   info: "Disease, landscapes, and agriculture."

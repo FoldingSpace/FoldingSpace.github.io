@@ -8,11 +8,18 @@ permalink: /conversation/
 
 # In the conversation
 
-The studio is a larger collaboration of likeminded people, at UBC and well beyond it. Students and collaborators often work on topics not directly related to one another's, but remain in vigorous intellectual conversation. Their work spans cultural critique and technically creative, generative work, theoretical and empirical, qualitative and ethnographic as well as computational.
+The studio is a larger collaboration of likeminded people, at UBC and well beyond it. Students and collaborators often work on topics not directly related to one another's, but remain in vigorous intellectual conversation. Their work spans cultural critique and technically creative, generative work, theoretical and empirical, qualitative and ethnographic as well as computational. Anyone interested in speaking, studying, and/or collaborating with us, please [reach out](mailto:luke.bergmann@ubc.ca).
 
-{% for person in site.data.conversation %}
+{% for person in site.data.conversation %}{% unless person.outside %}
 <p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</strong><br />
 {{ person.info }}</p>
-{% endfor %}
+{% endunless %}{% endfor %}
 
-Anyone interested in speaking, studying, and/or collaborating with us, please [reach out](mailto:luke.bergmann@ubc.ca).
+<p>...and a number of current students.</p>
+
+### Outside of UBC...
+
+{% for person in site.data.conversation %}{% if person.outside %}
+<p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</strong><br />
+{{ person.info }}</p>
+{% endif %}{% endfor %}

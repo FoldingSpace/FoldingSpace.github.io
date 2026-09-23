@@ -1,6 +1,78 @@
 # Selected publications. The full record is on Google Scholar (linked on the page).
 # Fields: authors, year, title, venue, url (optional).
-# TODO(Luke): add the other Bunge Archive papers with Trevor Barnes.
+# Newest first.
+
+- authors: T.J. Barnes and L. Bergmann
+  year: 2026
+  title: "Dr Bunge goes to Ontario: A geographical biography"
+  venue: "Environment and Planning F"
+  url: https://doi.org/10.1177/26349825261471918
+
+- authors: D. O'Sullivan and L. Bergmann
+  year: 2026
+  title: "Using MapWeaver to Make Tiled and Woven Maps of Multivariate Thematic Data"
+  venue: Cartographic Perspectives
+  url: https://doi.org/10.14714/cp108.2109
+
+- authors: K.W. Okamoto, L.F. Chaves, L. Bergmann, R. Wallace, and R.G. Wallace
+  year: 2026
+  title: "Comparing the Risk of SARS-CoV-2 Immune Resistance Evolving Across Regions in the Americas with Differing Approaches to Public Health"
+  venue: Pathogens 15(7)
+  url: https://doi.org/10.3390/pathogens15070682
+
+- authors: B. Ren and L. Bergmann
+  year: 2026
+  title: "Context-dependent relationships between street-level surface heat intensity, the sky view factor, and landscape patterns: Examples from the coastal city of Vancouver, Canada"
+  venue: Ecological Informatics 94
+  url: https://doi.org/10.1016/j.ecoinf.2026.103637
+
+- authors: L. Bergmann and D. O'Sullivan
+  year: 2025
+  title: "Towards a discrete generalization of cartographic projections"
+  venue: Abstracts of the ICA 10
+  url: https://doi.org/10.5194/ica-abs-10-20-2025
+
+- authors: L. Bergmann and T.J. Barnes
+  year: 2025
+  title: "Geographically empowering the marginalized"
+  venue: "In Making Geography Matter. Routledge"
+  url: https://doi.org/10.4324/9781003343240-23
+
+- authors: L. Bergmann and D. O'Sullivan
+  year: 2024
+  title: "Space: towards a global sense of place"
+  venue: "In A Research Agenda for Spatial Analysis. Edward Elgar"
+  url: https://doi.org/10.4337/9781802203233.00009
+
+- authors: L.F. Chaves, M.D. Friberg, M. Pascual, J.E. Calzada, S. Luckhart, and L.R. Bergmann
+  year: 2024
+  title: "Community-serving research addressing climate change impacts on vector-borne diseases"
+  venue: The Lancet Planetary Health 8(5)
+  url: https://doi.org/10.1016/s2542-5196(24)00049-4
+
+- authors: L. Bergmann, L.F. Chaves, D. O'Sullivan, and R.G. Wallace
+  year: 2023
+  title: "Dominant Modes of Agricultural Production Helped Structure Initial COVID-19 Spread in the U.S. Midwest"
+  venue: ISPRS International Journal of Geo-Information 12(5)
+  url: https://doi.org/10.3390/ijgi12050195
+
+- authors: C. Travis, D. Dixon, L. Bergmann, R. Legg, and A. Crampsie, eds.
+  year: 2022
+  title: "Routledge Handbook of the Digital Environmental Humanities"
+  venue: Routledge
+  url: https://doi.org/10.4324/9781003082798
+
+- authors: T.J. Barnes and L. Bergmann
+  year: 2022
+  title: "The early years: William Bunge and Theoretical Geography"
+  venue: "In B. Michel, F. Gyuris, and K. Paulus, eds., Recalibrating the Quantitative Revolution in Geography. Routledge"
+  url: https://doi.org/10.4324/9781003122104-12
+
+- authors: L. Bergmann, L.F. Chaves, C.R. Betz, S. Stein, B. Wiedenfeld, A. Wolf, and R.G. Wallace
+  year: 2022
+  title: "Mapping Agricultural Lands: From Conventional to Regenerative"
+  venue: Land 11(3)
+  url: https://doi.org/10.3390/land11030437
 
 - authors: L. Bergmann and N. Lally
   year: 2021
@@ -12,6 +84,7 @@
   year: 2021
   title: "enfolding: an experimental geographical imagination system (gis)"
   venue: In P. Kingsbury and A. Secor, eds., A Place More Void. University of Nebraska Press
+  url: https://doi.org/10.2307/j.ctv1bd4n3v.14
 
 - authors: L. Bergmann and D. O'Sullivan
   year: 2019
@@ -25,34 +98,11 @@
   venue: The Canadian Geographer 62(1)
   url: https://doi.org/10.1111/cag.12405
 
-- authors: L. Bergmann and D. O'Sullivan
-  year: 2017
-  title: "Computing with many spaces: Generalizing projections for the digital geohumanities and GIScience"
-  venue: Proceedings of GeoHumanities'17, ACM SIGSPATIAL
-  url: https://doi.org/10.1145/3149858.3149866
-
-- authors: L. Bergmann
-  year: 2016
-  title: "Toward speculative data: ‘Geographic information’ for situated knowledges, vibrant matter, and relational spaces"
-  venue: "Environment and Planning D: Society and Space 34(6)"
-  url: https://doi.org/10.1177/0263775816665118
-
-- authors: T.J. Barnes and L. Bergmann
-  year: 2022
-  title: "The early years: William Bunge and Theoretical Geography"
-  venue: "In B. Michel, F. Gyuris, and K. Paulus, eds., Recalibrating the Quantitative Revolution in Geography. Routledge"
-
 - authors: L. Bergmann and R. Morrill
   year: 2018
   title: "William Wheeler Bunge: Radical Geographer (1928–2013)"
   venue: Annals of the American Association of Geographers 108(1)
   url: https://doi.org/10.1080/24694452.2017.1366153
-
-- authors: L. Bergmann, L.F. Chaves, C.R. Betz, S. Stein, B. Wiedenfeld, A. Wolf, and R.G. Wallace
-  year: 2022
-  title: "Mapping Agricultural Lands: From Conventional to Regenerative"
-  venue: Land 11(3)
-  url: https://doi.org/10.3390/land11030437
 
 - authors: R. Wallace, L.F. Chaves, L. Bergmann, C. Ayres, L. Hogerwerf, R. Kock, and R.G. Wallace
   year: 2018
@@ -60,11 +110,23 @@
   venue: Springer
   url: https://doi.org/10.1007/978-3-319-72850-6
 
+- authors: L. Bergmann and D. O'Sullivan
+  year: 2017
+  title: "Computing with many spaces: Generalizing projections for the digital geohumanities and GIScience"
+  venue: Proceedings of GeoHumanities'17, ACM SIGSPATIAL
+  url: https://doi.org/10.1145/3149858.3149866
+
 - authors: L. Bergmann
   year: 2017
   title: "Towards economic geographies beyond the Nature-Society divide"
   venue: Geoforum 85
   url: https://doi.org/10.1016/j.geoforum.2016.12.002
+
+- authors: L. Bergmann
+  year: 2016
+  title: "Toward speculative data: ‘Geographic information’ for situated knowledges, vibrant matter, and relational spaces"
+  venue: "Environment and Planning D: Society and Space 34(6)"
+  url: https://doi.org/10.1177/0263775816665118
 
 - authors: L. Bergmann
   year: 2013

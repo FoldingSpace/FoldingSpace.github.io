@@ -3,7 +3,7 @@ title: "In the conversation | folding space studio"
 layout: textlay
 excerpt: "People in the conversation at the folding space studio"
 sitemap: false
-permalink: /team/
+permalink: /conversation/
 ---
 
 # In the conversation

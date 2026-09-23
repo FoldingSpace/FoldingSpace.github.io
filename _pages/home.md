@@ -8,9 +8,9 @@ permalink: /
 
 **What kind of computation for what kind of geography?**
 
-This question animates the folding space studio.
+This question animates the folding space studio. The richness of thought and inquiry across the arts, humanities, and social sciences goes far beyond what is easily computable today. Instead of narrowing how we think to align with the particular histories and interests that have brought us contemporary (geographical) computing, we try to expand what sorts of questions and ways of knowing the digital age is prepared to emphasize.
 
-Computing is already ubiquitous. Geographic information systems are used extensively in industry and universities alike. Yet much of how those who study geography see the world is not well handled by GIS or data sciences more broadly. The processes, the interrelationships, and the social and contextual character of knowledge that geographers and others see in the world often end up de-emphasized by how we compute today. Our work seeks to make more ways of knowing more of an option in GIS, cartography, and digitally-infused geography more generally. The richness of thought and inquiry across the arts, humanities, and social sciences goes far beyond what is easily computable today. Instead of narrowing how we think to align with the particular histories and interests that have brought us contemporary (geographical) computing, we try to expand what sorts of questions and ways of knowing the digital age is prepared to emphasize.
+Computing is already ubiquitous. Geographic information systems are used extensively in industry and universities alike. Yet much of how those who study geography see the world is not well handled by GIS or data sciences more broadly. The processes, the interrelationships, and the social and contextual character of knowledge that geographers and others see in the world often end up de-emphasized by how we compute today. Our work seeks to make more ways of knowing more of an option in GIS, cartography, and digitally-infused geography more generally.
 
 <figure markdown="0">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projects/enfolding-nacis.png" class="img-responsive" alt="Enfolded: space shaped by travel times from Madison to NACIS, a map made with enfolding" />

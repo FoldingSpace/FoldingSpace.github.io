@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**What kind of computation for what kind of geography?**
-
-This question animates the folding space studio. Thought and inquiry across the arts, humanities, and social sciences reach far beyond what is easily computable today. Rather than narrow how we think to fit the histories and interests that produced geographical computing, we try to expand the questions and ways of knowing the digital age is prepared to emphasize.
+*What kind of computation for what kind of geography?* This question animates the folding space studio. Thought and inquiry across the arts, humanities, and social sciences reach far beyond what is easily computable today. Rather than narrow how we think to fit the histories and interests that produced geographical computing, we try to expand the questions and ways of knowing the digital age is prepared to emphasize.
 
 Computing is already ubiquitous. So are GIS and digital mapping. Yet much of how geographers see the world is poorly handled by GIS, or by data science more broadly. Processes, interrelationships, and the social and contextual character of knowledge often end up de-emphasized by how we compute today. We work to make them more of an option in GIS, cartography, and digitally-infused geography more generally.
 

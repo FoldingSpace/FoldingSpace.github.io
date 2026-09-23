@@ -34,7 +34,7 @@ How might geographical computation engage a world of deeply entangled nature-soc
 
 ### Disease and landscape
 
-With collaborators including Luis Fernando Chaves and Rob Wallace, we study how landscapes, through their [socionatural entanglements across scales](https://doi.org/10.1016/j.socscimed.2014.09.047), become more or less susceptible to the [emergence](https://doi.org/10.3390/pathogens15070682) and [spread of disease](https://doi.org/10.1016/j.seps.2021.101161). This work has addressed [influenza](https://doi.org/10.1007/s10393-010-0324-z), [Ebola](https://doi.org/10.1177/0020731415611644), [Zika](https://doi.org/10.1007/978-3-319-72850-6), [COVID-19](https://doi.org/10.3390/ijgi12050195), and [malaria](https://doi.org/10.3390/insects13030221). It extends to [agricultural landscapes, industrial and alternative](https://doi.org/10.3390/land11030437).
+With collaborators including Luis Fernando Chaves and Rob Wallace, we study how landscapes, through their [socionatural entanglements across scales](https://doi.org/10.1016/j.socscimed.2014.09.047), become more or less susceptible to the [emergence](https://doi.org/10.3390/pathogens15070682) and [spread of disease](https://doi.org/10.1016/j.seps.2021.101161). This work has examined [influenza](https://doi.org/10.1007/s10393-010-0324-z), [Ebola](https://doi.org/10.1177/0020731415611644), [Zika](https://doi.org/10.1007/978-3-319-72850-6), [COVID-19](https://doi.org/10.3390/ijgi12050195), and [malaria](https://doi.org/10.3390/insects13030221). It extends to [agricultural landscapes, industrial and alternative](https://doi.org/10.3390/land11030437).
 
 ### Histories of geographic thought
 

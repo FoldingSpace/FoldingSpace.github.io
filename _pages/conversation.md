@@ -13,13 +13,13 @@ The folding space studio is convened by Luke Bergmann yet brings together a larg
 {% for person in site.data.conversation %}{% unless person.outside %}{% if person.note %}
 <p>{{ person.note }}</p>
 {% else %}
-<p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</strong>{% if person.info %}<br />
+<p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% if person.role %} {{ person.role }}{% endif %}</strong>{% if person.info %}<br />
 {{ person.info }}{% endif %}</p>
 {% endif %}{% endunless %}{% endfor %}
 
 #### Outside UBC, including...
 
 {% for person in site.data.conversation %}{% if person.outside %}
-<p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</strong>{% if person.info %}<br />
+<p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% if person.role %} {{ person.role }}{% endif %}</strong>{% if person.info %}<br />
 {{ person.info }}{% endif %}</p>
 {% endif %}{% endfor %}

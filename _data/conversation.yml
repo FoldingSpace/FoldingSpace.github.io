@@ -1,12 +1,13 @@
 # People in the conversation. Add students and collaborators here.
-# Fields: name, url (optional), info, outside (true for people outside UBC).
+# Fields: name, url (optional), role (optional, shown unlinked after the name), info, outside (true for people outside UBC).
 # An entry with only `note` prints as a plain line in place.
 
 - name: Luke Bergmann
   url: https://geog.ubc.ca/profile/luke-bergmann/
   info: "Canada Research Chair in GIS, Geospatial Big Data and Digital Geohumanities, and Associate Professor, Department of Geography, UBC. <a href='https://scholar.google.com/citations?user=srcTWI0AAAAJ&hl=en'>Google Scholar</a>."
 
-- name: "Baifei Ren (Ph.D. Candidate)"
+- name: Baifei Ren
+  role: "(Ph.D. Candidate)"
   url: https://baifeiren.github.io/
 
 - name: David O'Sullivan

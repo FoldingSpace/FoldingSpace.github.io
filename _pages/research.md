@@ -16,7 +16,7 @@ Digital geographic data conventionally represent the world in terms of self-suff
 
 The space of the city is not the same when driven in a car as when walked, or when flown over in a helicopter. It is not the same for the police as for a child. We are [generalizing spatial coordinates and map projections](https://doi.org/10.1145/3149858.3149866) beyond their present commitments to [absolute space](https://doi.org/10.4337/9781802203233.00009), so that we can [compute with many geographic spaces](https://doi.org/10.17608/k6.auckland.9848699.v2). Each is grounded in the contexts of particular processes, or in the perspectives of particular people. With David O'Sullivan, this includes work on [discrete generalized projections](https://doi.org/10.5194/ica-abs-10-20-2025), and on extending core projection libraries such as proj.
 
-### Geographical imagination systems
+### geographical imagination systems
 
 Technological path dependency tends to lock in the concerns and capabilities of GIS. So we also explore alternative ideals for geographical computation, such as [geographical imagination systems (gis)](https://doi.org/10.1080/24694452.2020.1750941). The prototype [enfolding](https://github.com/FoldingSpace/enfolding), made with Nick Lally, is [one such experiment](https://doi.org/10.2307/j.ctv1bd4n3v.14). Related work engages physical prototypes and experiential media, from 3D printing to augmented and virtual reality, to build intuition for complex spatialities.
 

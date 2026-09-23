@@ -20,11 +20,6 @@
   url: https://ceoas.oregonstate.edu/directory/jim-thatcher
   info: "Critical GIS; speculative and constructively critical GIS."
 
-- name: Eric Sheppard
-  outside: true
-  url: https://geog.ucla.edu/person/eric-sheppard/
-  info: "Geographical political economy; spatial theory and mathematics."
-
 - note: "...and a number of other students, current and past."
 
 - name: Trevor Barnes
@@ -45,3 +40,8 @@
   outside: true
   url: https://farmingpathogens.wordpress.com/
   info: "Disease, landscapes, and agriculture."
+
+- name: Eric Sheppard
+  outside: true
+  url: https://geog.ucla.edu/person/eric-sheppard/
+  info: "Geographical political economy, geographical theory, and critical quantitative geography."

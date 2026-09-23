@@ -1,5 +1,6 @@
 # People in the conversation. Add students and collaborators here.
 # Fields: name, url (optional), info, outside (true for people outside UBC).
+# An entry with only `note` prints as a plain line in place.
 
 - name: Luke Bergmann
   url: https://geog.ubc.ca/profile/luke-bergmann/
@@ -12,6 +13,8 @@
   outside: true
   url: https://dosull.github.io/
   info: "Generalized projections; tiled and woven maps; relational spaces."
+
+- note: "...and a number of other students, current and past."
 
 - name: Trevor Barnes
   url: https://geog.ubc.ca/profile/trevor-barnes/

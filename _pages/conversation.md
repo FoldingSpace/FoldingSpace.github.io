@@ -17,7 +17,7 @@ The Folding Space Studio is convened by Luke Bergmann yet brings into a larger c
 
 <p>...and a number of current students.</p>
 
-### Outside of UBC...
+#### Outside of UBC, including...
 
 {% for person in site.data.conversation %}{% if person.outside %}
 <p><strong>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</strong><br />

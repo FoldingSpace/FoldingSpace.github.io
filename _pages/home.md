@@ -19,7 +19,7 @@ Computers are already ubiquitous. Geographic information systems are used extens
 
 The richness of thought and inquiry across the arts, humanities, and social sciences goes far beyond what is easily computable today. Instead of narrowing how we think to align with the particular histories and interests that have brought us contemporary (geographical) computing, we try to expand what sorts of questions and ways of knowing the digital age is prepared to emphasize.
 
-### More than a room
+#### More than a room
 
 The studio is centred at UBC. There it includes the Geographical Computation Lab, in Room 210J of the Geography Building. Yet the studio is more than a physical space. It is also a social and digital space, fostering conversations and collaborations among likeminded people near and far.
 

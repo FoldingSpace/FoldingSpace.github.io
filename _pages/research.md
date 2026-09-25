@@ -38,7 +38,7 @@ With collaborators including Luis Fernando Chaves and Rob Wallace, we study how 
 
 ### Histories of geographic thought
 
-Our computing is shaped by particular histories. With Trevor Barnes, we co-curate the [William Bunge Archive](https://bunge.geog.ubc.ca), which has supported several of our published papers on [Bunge](https://doi.org/10.1177/26349825261471918), [theoretical geography](https://doi.org/10.4324/9781003122104-12), and [radical geography](https://doi.org/10.4324/9781003343240-23).
+Our computing is shaped by particular histories. With Trevor Barnes and others, we co-curate the [William Bunge Archive](https://bunge.geog.ubc.ca), which has supported several of our published papers on [Bunge](https://doi.org/10.1177/26349825261471918), [theoretical geography](https://doi.org/10.4324/9781003122104-12), and [radical geography](https://doi.org/10.4324/9781003343240-23).
 
 ### Making it available
 
